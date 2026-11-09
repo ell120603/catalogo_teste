@@ -1,0 +1,17 @@
+CATÁLOGO VIRTUAL 7bios BEAUTY
+=============================
+COMO ABRIR: dê dois cliques em index.html (abre no Chrome, Edge, Firefox ou Safari). Não precisa instalar nada nem de internet.
+O som só toca depois do primeiro clique (regra dos navegadores).
+
+NO CELULAR (em pé): mostra uma página grande por vez. Toque na metade direita da tela para avançar e na esquerda para voltar, ou deslize o dedo.
+
+COMO NAVEGAR: clique na página, use as setas ‹ › , as setas do teclado ou deslize o dedo no celular.
+
+COMO TROCAR AS FOTOS E PREÇOS: abra catalogo.js no Bloco de Notas, edite a lista "produtos" no topo
+e coloque suas fotos na pasta assets/produtos/.
+Troque também o número do WhatsApp na variável WHATSAPP.
+
+TAMANHO IDEAL DAS FOTOS: 800 x 1000 px (proporção 4:5, vertical) ou 1200 x 1500 px para telas de alta resolução.
+Formato JPG, até ~300 KB cada. Capa: 1500 x 2000 px (3:4).
+
+PARA POSTAR ONLINE: envie a pasta inteira para Netlify, Vercel ou GitHub Pages (grátis).
